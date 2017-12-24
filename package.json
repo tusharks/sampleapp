@@ -1,0 +1,22 @@
+{
+  "name": "sampleapp",
+  "version": "8.0.0",
+  "description": "description",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tusharks/sampleapp.git"
+  },
+  "keywords": [
+    "all"
+  ],
+  "author": "Tushar",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/tusharks/sampleapp/issues"
+  },
+  "homepage": "https://github.com/tusharks/sampleapp#readme"
+}
