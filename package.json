@@ -4,14 +4,14 @@
   "description": "description",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tusharks/sampleapp.git"
   },
   "keywords": [
-    "all"
+    "node"
   ],
   "author": "Tushar",
   "license": "UNLICENSED",
