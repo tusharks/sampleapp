@@ -1,0 +1,6 @@
+{
+	"name":"Node.js is getting started.",
+	"description":"The application is running.",
+	"repository":"https://github.com/tusharks/sampleapp",
+	"keywords": ["node","heroku"]	
+}
