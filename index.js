@@ -7,7 +7,5 @@ https.createServer(function (req, res){
 	res.end('Hello World. I am here');
 }).listen(8080);
 
-http.listen(process.env.PORT || 8080, function(){
-  console.log('listening on', http.address().port);
-});
+
 console.log('Server running on port:8080'); 
