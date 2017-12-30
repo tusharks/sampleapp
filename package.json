@@ -15,7 +15,8 @@
   },
   "keywords": [
     "node",
-    "heroku"
+    "heroku",
+    "express"
   ],
   "author": "Tushar",
   "license": "UNLICENSED",
